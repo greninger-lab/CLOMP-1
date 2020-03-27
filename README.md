@@ -1,5 +1,6 @@
-# CLOMP - CLinically Okay Metagenomic Pipeline ![CLOMP](https://github.com/FredHutch/CLOMP/workflows/CLOMP/badge.svg?branch=local_ngs_server)
+# Repository frozen as of 3/27/2020
 
+# CLOMP - CLinically Okay Metagenomic Pipeline ![CLOMP](https://github.com/FredHutch/CLOMP/workflows/CLOMP/badge.svg?branch=local_ngs_server)
 A entirely open source, fast, accurate, multi-sample and highly configurable end to end metagenomics pipeline for the people.
 
 ### Table of Contents

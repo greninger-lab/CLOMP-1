@@ -1,3 +1,6 @@
+# Code frozen as of 3/27/2020 
+## See FredHutch/CLOMP for latest version of CLOMP
+
 # CLOMP - CLinically Okay Metagenomic Pipeline
 ![CLOMP](https://github.com/FredHutch/CLOMP/workflows/CLOMP/badge.svg?branch=local_ngs_server)
 
